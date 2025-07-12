@@ -1,18 +1,18 @@
 # free-for.dev
 
-Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
+现在，开发者和开源作者可以使用许多提供免费套餐的服务，但要找到所有服务并做出明智的决定需要时间。
 
-This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+这是一份包含免费开发者套餐的软件（SaaS、PaaS、IaaS 等）和其他产品的列表。
 
-The scope of this particular list is limited to things that infrastructure developers (System Administrator, DevOps Practitioners, etc.) are likely to find useful. We love all the free services out there, but it would be good to keep it on topic. It's a grey line sometimes, so this is opinionated; please don't feel offended if I don't accept your contribution.
+此列表的范围仅限于基础设施开发者（系统管理员、DevOps 从业者等）可能会觉得有用的内容。我们喜欢所有可用的免费服务，但最好保持主题的连贯性。有时，情况并非总是如此，所以这只是主观臆断；如果我不接受您的贡献，请不要感到不快。
 
-This list results from Pull Requests, reviews, ideas, and work done by 1600+ people. You can also help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) to add more services or remove ones whose offerings have changed or been retired.
+此列表源自 1600 多人的拉取请求、评论、想法和工作。您也可以通过发送 [拉取请求](https://github.com/ripienaar/free-for-dev) 来提供帮助，以添加更多服务或删除已更改或已停用的服务。
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/ripienaar/free-for-dev)
 
-**NOTE**: This list is only for as-a-Service offerings, not for self-hosted software. To be eligible, a service must offer a free tier, not just a free trial. The free tier must be for at least a year if it is time-bucketed. We also consider the free tier from a security perspective, so SSO is fine, but I will not accept services that restrict TLS to paid-only tiers.
+**注意**：此列表仅适用于“即服务”产品，不适用于自托管软件。要符合条件，服务必须提供免费套餐，而不仅仅是免费试用。如果是分时段使用，免费套餐必须至少持续一年。我们也会从安全角度考虑免费套餐，因此单点登录 (SSO) 是可以接受的，但我不会接受将 TLS 限制为仅付费套餐的服务。
 
-# Table of Contents
+# 目录
 
   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
   * [Cloud management solutions](#cloud-management-solutions)
@@ -76,7 +76,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Game Development](#game-development)
   * [Other Free Resources](#other-free-resources)
 
-## Major Cloud Providers
+## 主要云提供商
 
   * [Google Cloud Platform](https://cloud.google.com)
     * App Engine - 28 frontend instance hours per day, nine backend instance hours per day
@@ -173,7 +173,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Cloud management solutions
+## 云管理解决方案
 
   * [Brainboard](https://www.brainboard.co) - Collaborative solution to visually build and manage cloud infrastructures from end-to-end.
   * [Cloud 66](https://www.cloud66.com/) - Free for personal projects (includes one deployment server, one static site), Cloud 66 gives you everything you need to build, deploy, and grow your applications on any cloud without the headache of the “server stuff.”.
@@ -184,7 +184,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 **[⬆️ Back to Top](#table-of-contents)**
 
-## Source Code Repos
+## 源代码库
 
   * [Bitbucket](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
